@@ -33,7 +33,7 @@ Se incorporaron las siguientes mejoras al backend:
 
 2. **Ejecutar la simulación en la terminal:**
    ```bash
-   python simulacion_chatbot.py
+   python ChatBot-funcional.py
    ```
 
 3. **Credenciales de prueba disponibles en base de datos:**
