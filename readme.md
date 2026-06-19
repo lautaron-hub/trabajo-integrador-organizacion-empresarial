@@ -1,7 +1,18 @@
 # 🛠️ Bot de Soporte Técnico Nivel 1 - WhatsApp Simulation (Clases OOP)
 
-Trabajo Práctico Integrador para la materia **Organización Empresarial**.  
-Esta versión del simulador implementa un chatbot de WhatsApp enfocado en optimizar el proceso administrativo de Soporte Técnico Nivel 1. El desarrollo aplica **Programación Orientada a Objetos (POO)** y cumple con las convenciones de estilo requeridas por la cátedra.
+## 🎓 Datos del Proyecto e Integrantes
+* **Universidad:** Universidad Tecnológica Nacional (UTN)
+* **Carrera:** Tecnicatura Superior en Programación
+* **Materia:** Organización Empresarial
+* **Año Académico:** 2026
+* **Integrantes:**
+  * Lautaro Nuñez - Comision 15
+  * Braian Cortez - Comision 18
+
+---
+
+## 📝 Descripción General
+Trabajo Práctico Integrador enfocado en la optimización del proceso administrativo de Soporte Técnico Nivel 1. Esta versión del simulador implementa un chatbot de WhatsApp utilizando **Programación Orientada a Objetos (POO)** y cumple rigurosamente con las convenciones de diseño y control de estados requeridas por la cátedra.
 
 ---
 
