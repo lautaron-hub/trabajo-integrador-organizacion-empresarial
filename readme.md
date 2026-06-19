@@ -11,6 +11,13 @@
 
 ---
 
+## 📄 Documentación del Proyecto
+Para consultar el análisis organizacional completo, la justificación de la arquitectura y la bitácora de desarrollo, puedes acceder al informe formal del trabajo práctico:
+
+📥 **[Descargar Informe Final en PDF](./TPI_Organizacion_Empresarial.pdf)**
+
+---
+
 ## 📝 Descripción General
 Trabajo Práctico Integrador enfocado en la optimización del proceso administrativo de Soporte Técnico Nivel 1. Esta versión del simulador implementa un chatbot de WhatsApp utilizando **Programación Orientada a Objetos (POO)** y cumple rigurosamente con las convenciones de diseño y control de estados requeridas por la cátedra.
 
